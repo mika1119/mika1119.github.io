@@ -20,13 +20,13 @@
 
 title: MK PORTFOLIO
 description: >- # this means to ignore newlines until "baseurl:"
-  北九州でWEB制作やWEBアプリ開発をしているフリーランスです。
-  八幡・中間・直方周辺の個人事業主さまや企業さま向けに、
-  ホームページ／予約・管理システム／業務効率化ツールなど作っています！
+  北九州でWEB制作・WEBアプリ開発を行うフリーランスエンジニア。
+  八幡・中間・直方エリアを中心に、ホームページ制作から予約・管理システム、業務効率化ツールまで一貫対応。
+  個人事業主さま・小規模事業者さま向けに、相談しやすい開発を提供しています。
 lang: ja
 timezone: Asia/Tokyo
 
-baseurl: "/mk_portfolio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mika1119.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

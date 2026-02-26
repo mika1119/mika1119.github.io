@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: HOME
+title: 北九州のWEB制作・WEBアプリ開発
+nav_title: HOME
 
 services:
   - title: "WEBサイト制作"

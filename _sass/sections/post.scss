@@ -2,12 +2,11 @@
 
 .post {
   width: 100%;
-  max-width: 920px;
   height: auto;
   display: grid;
   gap: 4vh;
-  margin: 0 auto;
   padding: 6vh 4vw 20vh;
+  @include max_width;
   &__header {
     display: grid;
     gap: 2vh;

@@ -1,8 +1,11 @@
 <header class="header-wrap">
   <div class="header">
-    <a class="header__title" rel="author" href="{{ "/" | relative_url }}">
-      {{ site.title | escape }}
-    </a>
+    <div class="header-titles">
+      <h1 class="header-titles__site-description">北九州でWEB制作・WEBアプリ開発を行うフリーランスエンジニア</h1>
+      <a class="header-titles__site-name" rel="author" href="{{ "/" | relative_url }}">
+        {{ site.title | escape }}
+      </a>
+    </div>
 
     {%- include nav.html -%}
   </div>

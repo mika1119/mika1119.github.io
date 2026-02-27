@@ -1,7 +1,7 @@
 @use "base" as *;
 
 .nav {
-  width: 100%;
+  width: auto;
   height: auto;
   &__toggle {
     display: none;
